@@ -30,7 +30,7 @@ There is one notebook available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/).
+The main findings of the code can be found at the post available [here](https://medium.com/@madhav1993hari/exploring-trends-in-developer-learning-programming-languages-and-salaries-7c3b7e3c82ea).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
