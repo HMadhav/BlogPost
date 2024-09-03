@@ -1,10 +1,16 @@
 ### Table of Contents
 
+1. [Data Collaction](#datacollaction)
 1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [File Descriptions](#files)
-4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+1. [Project Motivation](#motivation)
+1. [File Descriptions](#files)
+1. [Results](#results)
+1. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Data Collaction <a name="datacollaction"></a>
+
+Please download the data from [here](https://www.kaggle.com/datasets/dheemanthbhat/stack-overflow-annual-developer-survey-2022).
+Make sure to rename the data file to `survey_results_public.csv` and place it in the root of the folder.
 
 ## Installation <a name="installation"></a>
 
