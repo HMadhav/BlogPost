@@ -9,8 +9,7 @@
 
 ## Data Collaction <a name="datacollaction"></a>
 
-Please download the data from [here](https://www.kaggle.com/datasets/dheemanthbhat/stack-overflow-annual-developer-survey-2022).
-Make sure to rename the data file to `survey_results_public.csv` and place it in the root of the folder.
+CSV data is over 100MB that's why I can not upload it in my repo due to 100MB GitHub file size limit.Please download the data from [here](https://www.kaggle.com/datasets/dheemanthbhat/stack-overflow-annual-developer-survey-2022).Make sure to rename the data file to `survey_results_public.csv` and place it in the root of the folder.
 
 ## Installation <a name="installation"></a>
 
